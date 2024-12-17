@@ -26,11 +26,20 @@ Ceci est un repositoire pour le projet du module Interactions Homme-Machine (M2 
 
 1- SVM: ![svm](https://github.com/Malekbennabi3/Song-Classification/blob/main/Capture%20d'%C3%A9cran%202024-12-17%20185954.png)
 
+
+
+
 2- CNN:
   * CNN from scratch: ![cnn1](https://github.com/Malekbennabi3/Song-Classification/blob/main/Capture%20d'%C3%A9cran%202024-12-17%20133001.png)
+    
   * CNN EfficientNet: ![cnn2](https://github.com/Malekbennabi3/Song-Classification/blob/main/Capture%20d'%C3%A9cran%202024-12-17%20190115.png)
+
+
+
     
 3- Transformer:![transformer](https://github.com/Malekbennabi3/Song-Classification/blob/main/Capture%20d'%C3%A9cran%202024-12-17%20190420.png)
 
+## Comparaison des résultats:
+![comp](https://github.com/Malekbennabi3/Song-Classification/blob/main/Capture%20d'%C3%A9cran%202024-12-17%20190726.png)
 
 ## Présentation .pptx disponible à l'adresse: [Presentation_IHM](https://github.com/Malekbennabi3/Song-Classification/blob/main/Projet_IHM.pptx%20(1).pdf)
