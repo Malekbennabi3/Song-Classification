@@ -10,7 +10,7 @@ Ceci est un repositoire pour le projet du module Interactions Homme-Machine (M2 
 
  Le Dataset a été réarrangé dans le format Kaggle et est disponible à l'adresse suivante: [Music_Genres](https://www.kaggle.com/datasets/malekbennabi/music-genres)*
 
- # [Distribution des genres musicaux dans le dataset](Distribution_genres.png)
+ # ![Distribution des genres musicaux dans le dataset](Distribution_genres.png)
 
 
 ## Etapes de la réalisation du projet:
