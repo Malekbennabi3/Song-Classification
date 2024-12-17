@@ -12,9 +12,11 @@ Ceci est un repositoire pour le projet du module Interactions Homme-Machine (M2 
 
  # ![Distribution des genres musicaux dans le dataset](Distribution_genres.png)
 
+## Pré-traitement:
+![preparation des données](https://github.com/Malekbennabi3/Song-Classification/blob/main/image.png)
 
 ## Etapes de la réalisation du projet:
-* Transformation du dataset audio en données Mel spectrogrammes (visuelles)
+* Transformation du dataset audio en données Mel spectrogrammes (données visuelles)
 * Creation d'un dataset avec les spectogrames precedents en FFT (Fast Fourier Transform)
 * Classification avec CNN (VGG16 et EfficientNet)
 * Classification avec Transformer (ViTb16)
