@@ -20,4 +20,4 @@ Ceci est un repositoire pour le projet du module Interactions Homme-Machine (M2 
 * Classification avec Transformer (ViTb16)
 
 
-## Présentation .pptx disponible à l'adresse: [Presentation_IHM](Projet_IHM.pptx (1).pdf)
+## Présentation .pptx disponible à l'adresse: [Presentation_IHM](https://github.com/Malekbennabi3/Song-Classification/blob/main/Projet_IHM.pptx%20(1).pdf)
